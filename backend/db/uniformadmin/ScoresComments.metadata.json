@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"uniformadmin.ScoresComments"}],"uuid":"5ead10198dd247aeba35ea2835539ae6"}

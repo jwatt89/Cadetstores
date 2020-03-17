@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"uniformadmin.DemandReason"},{"v":{"$numberInt":"2"},"unique":true,"key":{"Reason":{"$numberInt":"1"}},"name":"Reason_1","ns":"uniformadmin.DemandReason","background":true}],"uuid":"99967dc4e3184696b7fbf073039c912e"}
